@@ -1,5 +1,5 @@
 # First-Web-Page
-Kodluyoruz HTML Ödev-1 için oluşturulan ilk web sayfası.
+Kodluyoruz HTML Ödev-1/Ödev-2 için oluşturulan ilk web sayfası.
 
 ## Installation
 ```
